@@ -1,6 +1,6 @@
 .headline {
     text-align: center; /* Center align on desktop */
-    color: white;
+
 }
 
 
@@ -13,9 +13,14 @@
 @media (min-width: 768px) {
   /* Apply styles for screens wider than 767px (typically tablets and desktops) */
   .blog-border {
-      border: 2px solid #00ff00; /* Add top and bottom borders for wider screens */
-      box-shadow: 0 0 12px #00ff00;
-      border-radius: 8px;
+      border: 3px solid #00ff00; /* Add top and bottom borders for wider screens */
+      border-top: none; /* Add top border with green color (#00ff00) */
+      border-bottom: none; /* Add bottom border with green color (#00ff00) */
+      border-left:3px solid #00ff00;
+      border-right:3px solid #00ff00;
+      box-shadow: 0 0 0 0 #00ff00;
+      border-radius: 15px;
+      
   }
 }
 
@@ -24,10 +29,10 @@
   .blog-border {
       border-top: none; /* Add top border with green color (#00ff00) */
       border-bottom: none; /* Add bottom border with green color (#00ff00) */
-      border-left:2px solid #00ff00;
-      border-right:2px solid #00ff00;
+      border-left:3px solid #00ff00;
+      border-right:3px solid #00ff00;
       box-shadow: 0 0 0px #00ff00;
-      border-radius: 8px;
+      border-radius: 15px;
       
   }
 }
@@ -191,6 +196,15 @@ height: 80px;
 width: 100px;
 }
 .underlined {
-  text-decoration: underline;
-  text-decoration-color: #00ff00; /* Color of the underline */
+  background: rgb(63,94,251);
+background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(0,255,0,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.slant{
+  font-style: italic;
+}
+.nopadding{
+  padding-top: 0px;
 }

@@ -313,7 +313,7 @@ img {
 
 @media (max-width: 767px) {
     #particles-js {
-        display: none;
+       
     }
 }
 
@@ -3383,8 +3383,7 @@ img {
 }
 
 .dividar_line {
-    border-bottom: 1px solid #00ff00;
-    
+    border-bottom: 1px double #00ff00;
     box-shadow: 0 0 10px #00ff00;
     position: relative;
    
@@ -8958,8 +8957,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 .service__about .body__tab .nav-pills .nav-link {
     background-color: transparent;
     color: #6c7a87;
-    font-size: 16px;
-   padding-top: 0px;
+    font-size: 18px;
     -webkit-transition: 0.3s !important;
     -moz-transition: 0.3s !important;
     -o-transition: 0.3s !important;
