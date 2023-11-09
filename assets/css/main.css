@@ -1761,7 +1761,7 @@ img {
 }
 
 .c-sea {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .c-purple {
@@ -1861,7 +1861,7 @@ img {
 }
 
 .bg-sea {
-    background-color: #4d81f7 !important;
+    background-color: #00ff00 !important;
 }
 
 .bg-purple {
@@ -2923,50 +2923,50 @@ img {
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
-    background-color: #6bb0f8 !important;
+    background-color: #00ff00 !important;
     color: #ffffff !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item:hover {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item.active {
-    background-color: #6bb0f8 !important;
+    background-color: #00ff00 !important;
     color: #ffffff !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item:hover {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item.active {
-    background-color: #6bb0f8 !important;
+    background-color: #00ff00 !important;
     color: #ffffff !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-sky .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link:hover {
-    color: #6bb0f8 !important;
+    color: #00ff00 !important;
 }
 
 .active-magenta .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
@@ -3111,50 +3111,50 @@ img {
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
-    background-color: #4d81f7 !important;
+    background-color: #00ff00 !important;
     color: #ffffff !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item:hover {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-item.active {
-    background-color: #4d81f7 !important;
+    background-color: #00ff00 !important;
     color: #ffffff !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item:hover {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .dropdown-submenu .dropdown-menu .dropdown-item.active {
-    background-color: #4d81f7 !important;
+    background-color: #00ff00 !important;
     color: #ffffff !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-sea .navbar .navbar-collapse .navbar-nav .nav-item.show .nav-link:hover {
-    color: #4d81f7 !important;
+    color: #00ff00 !important;
 }
 
 .active-purple .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
@@ -3462,7 +3462,7 @@ img {
 }
 
 .nav_rakon .nav-pills .nav-item .nav-link.active {
-    color: #165df5 !important;
+    color: #00ff00 !important;
 }
 
 .buy_theme {
@@ -5496,7 +5496,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 @media (max-width: 767px) {
     .crypto_dark {
         position: fixed;
-        background: rgba(255, 255, 255, 0.8);
+        background: transparent;
         -webkit-backdrop-filter: saturate(1) blur(20px) !important;
         -moz-backdrop-filter: saturate(1) blur(20px) !important;
         -o-backdrop-filter: saturate(1) blur(20px) !important;
@@ -5505,7 +5505,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     }
     @-moz-document url-prefix() {
         .crypto_dark {
-            background: white;
+            background: transparent;
             border-bottom: 0 !important;
             box-shadow: 0px 10px 40px 0px rgba(11, 34, 56, 0.05);
         }
@@ -6127,7 +6127,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 }
 
 .banner_demo4 .img_head_uniqe .list_aboutcompany {
-    background-color: #4d81f7;
+    background-color: #00ff00;
     padding: 2rem;
     position: absolute;
     bottom: -10%;
@@ -8353,7 +8353,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 
 .gng_serv_about .item_ig .nq_about {
     position: absolute;
-    background-color: #4d81f7;
+    background-color: #00ff00;
     border-radius: 0;
     padding: 2.5rem 2rem;
     right: -5rem;
@@ -14115,7 +14115,7 @@ software_web
 }
 
 .gn_testimonial .gbx_content .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active-main {
-    background: #4d81f7;
+    background: #00ff00;
 }
 
 /*-----------------------------
@@ -15234,7 +15234,7 @@ software_web
 }
 
 .gb_abou_ga .gz_name h4 span {
-    color: #4d81f7;
+    color: #00ff00;
 }
 
 .gb_abou_ga .gz_name p {
@@ -16571,7 +16571,7 @@ software_web
 }
 
 .gb_team_te .so_media.horizontal_item a.active {
-    background-color: #4d81f7;
+    background-color: #00ff00;
 }
 
 /*-----------------------------
