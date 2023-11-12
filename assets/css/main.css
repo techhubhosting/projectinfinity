@@ -449,7 +449,7 @@ img {
 
 .demo_body_interior .gbs_content {
     border-radius: 12px;
-    background-color: #ffffff;
+  
     width: 96%;
     margin-left: auto;
     margin-right: auto;
@@ -11827,15 +11827,18 @@ software_web
 }
 
 .pricing_section .blocks_pricing div div:first-of-type .item__price {
-    background-color: #d0dfff;
+    background: rgb(192,192,192);
+    background: linear-gradient(90deg, rgba(192,192,192,1) 48%, rgba(2,0,36,1) 100%, rgba(192,192,192,1) 100%);
 }
 
 .pricing_section .blocks_pricing div div:nth-of-type(2) .item__price {
-    background-color: #fff4d8;
+    background: rgb(255,215,0);
+    background: linear-gradient(90deg, rgba(255,215,0,1) 48%, rgba(2,0,36,1) 100%, rgba(255,215,0,1) 100%);
 }
 
 .pricing_section .blocks_pricing div div:nth-of-type(3) .item__price {
-    background-color: #ffe4db;
+    background: rgb(185,242,255);
+    background: linear-gradient(90deg, rgba(185,242,255,1) 48%, rgba(2,0,36,1) 100%, rgba(185,242,255,1) 100%);
 }
 
 .pricing_section .blocks_pricing .item__price {
@@ -11897,7 +11900,7 @@ software_web
 .pricing_section .blocks_pricing .item__price .name_p {
     font-size: 25px;
     font-weight: 600;
-    color: #16f28b;
+    color: black;
     margin-bottom: 1.875rem;
 }
 
@@ -11913,25 +11916,25 @@ software_web
     animation: puff-in-center 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) both !important;
     font-size: 50px;
     font-weight: 600;
-    color: #16f28b;
+    color: black;
     position: relative;
 }
 
 .pricing_section .blocks_pricing .item__price .number .coins {
     position: absolute;
-    color: #6c7a87;
+    color: black;
     font-size: 20px;
     font-weight: 600;
 }
 
 .pricing_section .blocks_pricing .item__price .number .per {
-    color: #6c7a87;
+    color: black;
     font-size: 14px;
     font-weight: 400;
 }
 
 .pricing_section .blocks_pricing .item__price .info_price {
-    color: #6c7a87;
+    color: black;
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 0;
@@ -11960,11 +11963,12 @@ software_web
     font-size: 16px;
     font-weight: 4000;
     padding: 0.75 1.25rem;
+    color: black;
 }
 
 .pricing_section .blocks_pricing .item__price .feature_price .list-group .list-group-item .tio {
     vertical-align: text-top;
-    color: #17e79b;
+    color: black;
     font-size: 18px;
     margin-right: 0.3rem;
 }
@@ -12012,11 +12016,11 @@ software_web
 }
 
 .pricing_demo2 .blocks_pricing .item__price .feature_price .list-group .disable {
-    color: #6c7a87;
+    color: black;
 }
 
 .pricing_demo2 .blocks_pricing .item__price .feature_price .list-group .disable .tio {
-    color: #6c7a87;
+    color: black;
 }
 
 .pricing_demo2 .blocks_pricing .item__price.popular {
@@ -16591,7 +16595,7 @@ software_web
 }
 
 .team_overlay_style .item_group .image_ps img {
-    height: 350px;
+    height: 550px;
     width: 100%;
     object-fit: cover;
     -webkit-transition: 0.4s cubic-bezier(0.65, 0.05, 0.36, 1) !important;
