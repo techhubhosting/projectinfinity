@@ -8934,7 +8934,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 -----------------------------*/
 
 .service__about .body__tab {
-    margin-top: 3px;
+    margin-top: 1px;
 }
 
 @media (max-width: 991px) {
@@ -8944,7 +8944,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 }
 
 .service__about .body__tab .nav-pills {
-    margin-top:3px;
+    margin-top:1px;
 }
 
 @media (max-width: 991px) {
@@ -22564,6 +22564,7 @@ html:not(.no-js) [data-aos="fade-up"] {
 }
 .button--click .btn-token.defalult {
     border: 1px solid rgba(255, 255, 255, 0.4);
+    font-size: 12px;
 }
 
 /*-----------------------------
